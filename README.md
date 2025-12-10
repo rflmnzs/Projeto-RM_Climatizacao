@@ -69,7 +69,7 @@ A interface foi desenvolvida com foco na simplicidade e funcionalidade, permitin
 1. Importe o projeto em sua IDE: **IntelliJ**, **Eclipse** ou **NetBeans**.  
 2. Certifique-se de que o MySQL está ativo.  
 3. Importe o banco com o script SQL.  
-4. Edite os dados de conexão no package `util`:
+4. Edite os dados de conexão no package `conexaosql`:
    - host  
    - porta  
    - usuário  
